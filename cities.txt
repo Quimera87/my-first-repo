@@ -3,4 +3,5 @@ Bogota
 La Paz
 Caracas
 Quito
-????
+Lisboa
+Porto
